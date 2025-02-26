@@ -112,3 +112,4 @@ Sou apaixonado por tecnologia e compartilho meu cresecimento através do Linkedi
 
 [def]: ile:///D:/sql-database-generic-svgrepo-com.sv
 [file:///D:/sql-database-generic-svgrepo-com.svg]: def
+
